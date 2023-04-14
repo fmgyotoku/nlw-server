@@ -1,4 +1,5 @@
 node_modules/
 prisma/migrations/
-*.db*
 prisma/dev.db
+*.db*
+*.toml
